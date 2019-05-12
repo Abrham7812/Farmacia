@@ -9,6 +9,7 @@ namespace Farmacia
         public Caja()
         {
             Console.WriteLine("Bienvenido");
+            Console.WriteLine("Esta es la farmacia Similar");
         }
 
 
